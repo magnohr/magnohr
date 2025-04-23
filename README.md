@@ -4,7 +4,7 @@
 Me chamo Magno Henrique Reis, tenho 31 anos, sou formado em Administração e atualmente curso Pós-graduação em Desenvolvimento Full Stack pela Faculdade Descomplica. Meu foco é no desenvolvimento Android com Java, e, por isso, continuo aprimorando meus conhecimentos na área diariamente.
 
 Descobri minha paixão por desenvolvimento no final da graduação em Administração e, desde então, busco conhecimento todos os dias para me desenvolver ainda mais, especialmente nas áreas relacionadas ao Full Stack. Sou apaixonado por tecnologia e acredito no poder da prática e na construção contínua de projetos.
-Compartilho minha jornada e os projetos que concluo no meu perfil no LinkedIn: ["[Dev em Dev](https://www.instagram.com/dev_em_dev/".)](https://www.linkedin.com/in/magno-henrique-reis/)
+Compartilho minha jornada e os projetos que concluo no meu perfil no LinkedIn: (https://www.instagram.com/dev_em_dev/".)](https://www.linkedin.com/in/magno-henrique-reis/)
 
 <p align="left">
     <a href="https://www.youtube.com/channel/UCZ5mDxiW0iEglWBO95tH8Ag">
